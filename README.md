@@ -1,4 +1,4 @@
-# XCoin Hash
+# xCoin Hash
 A python module for x11 PoW algorithm
 
 ## On your Desktop,
